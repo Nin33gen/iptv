@@ -4,9 +4,15 @@
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1, Мир Белогорья
 http://mirbelogorya.ru:8080/mirbelogorya/tracks-v1a1/index.m3u8
+#EXTINF:-1, Мир Белогорья
+https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, Сургут 86
 http://sitv.ru/hls/s86.m3u8
+#EXTINF:-1, Сургут 86
+http://sitv.ru/hls/s861024.m3u8
+
 
 #EXTINF:-1, Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
@@ -18,10 +24,30 @@ https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=n-
 
 #EXTINF:-1, Башкортостан 24
 http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:-1, Башкортостан 24
+http://109.233.169.137/540/b24-540.m3u8
 
 
+#EXTINF:-1, ОТС HD
+rtmp://212.164.51.118/live/live
+#EXTINF:-1, ОТС HD
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=_NbVXLunM8A5X1R96OffIg&e=2094081552&scheme=https
+#EXTINF:-1, ОТС HD
+https://mhd116.iptv2022.com/x/CetqYA3sgVRdqRz-O8Rslg,1794167884/streaming/otsnovnosib/324/1/index.m3u8
 
+#EXTINF:-1, Кузбасс 1 HD
+http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
+#EXTINF:-1, Кузбасс 1 HD
+http://hls.peers.tv/streaming/gtrk_kuzbass/16/copy_a/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
 
+#EXTINF:-1 group-title="Без группы",Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=u1guqy9nHXWd9ufa-uD6sw&e=2094081598&scheme=https
+#EXTINF:-1 group-title="Без группы",Волейбол
+https://mhd116.iptv2022.com/x/p6zx2mmpEDcEWvA2z2CCTA,1794167884/streaming/volleyball/324/1/index.m3u8
+#EXTINF:-1 group-title="Без группы",Волейбол
+http://transporteur.access.ly:7777/4adb93e09bb1292c47e4aa5cf4e9a02d?token=11381309a6b84308aa1d3a1812480b42
+#EXTINF:-1 group-title="Без группы",Волейбол
+http://4c66041f.tvclub.xyz/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31920/index.m3u8
 
 
 
