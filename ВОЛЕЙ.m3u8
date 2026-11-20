@@ -6,26 +6,53 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 http://mirbelogorya.ru:8080/mirbelogorya/tracks-v1a1/index.m3u8
 #EXTINF:-1, Мир Белогорья
 https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, Мир Белогорья
+http://cdntv.online/high/kf28bzwndi/223.m3u8
+#EXTINF:-1, Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1, Мир Белогорья
+https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
+#EXTINF:-1, Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 
 #EXTINF:-1, Сургут 86
 http://sitv.ru/hls/s86.m3u8
 #EXTINF:-1, Сургут 86
 http://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1, Сургут 86
+http://dmitry-tv.ddns.net/hls/region/CH_C86_SUR.m3u8
+#EXTINF:-1, Сургут 86
+https://sitv.ru/hls/s86512.m3u8
 
 
 #EXTINF:-1, Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1, Нижний Новгород 24
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1, Нижний Новгород 24
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_NN24HD_NN.m3u8
 
 #EXTINF:-1, Ямал
 https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
 #EXTINF:-1, Ямал
 https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=n-7VyTbw6l8t2BZ16d4lNQ&e=2094038267&scheme=https
+#EXTINF:-1, Ямал
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=L8c2YPaOuS6jIr0SkYPeKg&e=2094126722&scheme=https
+#EXTINF:-1, Ямал
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=Dd15H1SvTydYyzDyLLQZpg&e=2081939605&scheme=https
+
+
 
 #EXTINF:-1, Башкортостан 24
 http://109.233.169.137/hls/b24-hls.m3u8
 #EXTINF:-1, Башкортостан 24
 http://109.233.169.137/540/b24-540.m3u8
+#EXTINF:-1, Башкортостан 24
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=_JmOfvYb33akIbz5iSYxMQ&e=2094126715&scheme=https
+#EXTINF:-1, Башкортостан 24
+https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/track_105_dd0cf289/chunklist.m3u8
+#EXTINF:-1, Башкортостан 24
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
 
 
 #EXTINF:-1, ОТС HD
@@ -34,11 +61,37 @@ rtmp://212.164.51.118/live/live
 https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=_NbVXLunM8A5X1R96OffIg&e=2094081552&scheme=https
 #EXTINF:-1, ОТС HD
 https://mhd116.iptv2022.com/x/CetqYA3sgVRdqRz-O8Rslg,1794167884/streaming/otsnovnosib/324/1/index.m3u8
+#EXTINF:-1, ОТС
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1, ОТС HD
+http://cdntv.online/high/kf28bzwndi/237.m3u8
+#EXTINF:-1, ОТС HD
+http://cdntv.online/high/kf28bzwndi/603.m3u8
+#EXTINF:-1, ОТС HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1, ОТС HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 
+
+#EXTINF:-1, Кузбасс 1 HD
+http://u.vipl.one/hls/9bpaycj4dk/717.m3u8
 #EXTINF:-1, Кузбасс 1 HD
 http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
 #EXTINF:-1, Кузбасс 1 HD
 http://hls.peers.tv/streaming/gtrk_kuzbass/16/copy_a/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1, Кузбасс 1 HD
+http://cdntv.online/high/kf28bzwndi/717.m3u8
+
+
+
+
+#EXTINF:-1, ОРТ Планета Оренбург
+https://mhd116.iptv2022.com/x/mKVKIOISmHt_UK1eu7MOCg,1794213039/streaming/media56/324/1/index.m3u8
+#EXTINF:-1, ОРТ Планета Оренбург
+http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Без группы",Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=u1guqy9nHXWd9ufa-uD6sw&e=2094081598&scheme=https
@@ -48,14 +101,25 @@ https://mhd116.iptv2022.com/x/p6zx2mmpEDcEWvA2z2CCTA,1794167884/streaming/volley
 http://transporteur.access.ly:7777/4adb93e09bb1292c47e4aa5cf4e9a02d?token=11381309a6b84308aa1d3a1812480b42
 #EXTINF:-1 group-title="Без группы",Волейбол
 http://4c66041f.tvclub.xyz/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31920/index.m3u8
+#EXTINF:-1 group-title="Без группы",Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=3U3PFBHIWC-BGPCDVywfng&e=2094126749&scheme=https
+#EXTINF:-1 group-title="Без группы",Волейбол
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
+
+
+#EXTINF:-1, ЮГРА
+http://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1, ЮГРА
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1, Окко спорт
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20138/index.m3u8
+#EXTINF:-1, Окко прайм спорт
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20135/index.m3u8
+#EXTINF:-1, Окко Event
+http://ib6vzaug.rostelekom.xyz/iptv/QGP3QXDP95UFB4/14186/index.m3u8
 
 
 
