@@ -81,8 +81,8 @@ http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
 http://hls.peers.tv/streaming/gtrk_kuzbass/16/copy_a/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
 #EXTINF:-1, Кузбасс 1 HD
 http://cdntv.online/high/kf28bzwndi/717.m3u8
-
-
+#EXTINF:-1, Кузбасс 1 HD
+http://ottlinks.club/hls/kz9fw4s2jx/717.m3u8
 
 
 #EXTINF:-1, ОРТ Планета Оренбург
@@ -105,6 +105,9 @@ http://4c66041f.tvclub.xyz/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31920/index.m3u8
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=3U3PFBHIWC-BGPCDVywfng&e=2094126749&scheme=https
 #EXTINF:-1 group-title="Без группы",Волейбол
 https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
+#EXTINF:-1 group-title="Без группы",Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
+
 
 
 #EXTINF:-1, ЮГРА
@@ -112,14 +115,45 @@ http://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1, ЮГРА
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
 
+#EXTINF:-1,  Старт
+http://newsr1.roshen.live:8081/rbSXBuHV2s/mpegts?token=UmsgdqLB71ryIZYU
+#EXTINF:-1,  Старт
+http://cdntv.online/high/kf28bzwndi/58.m3u8
+#EXTINF:-1,  Старт
+http://flus.ddns.net:8087/start/index.m3u8?token=029b309ed7615bab4d79adc6fca2ae43
+#EXTINF:-1,  Старт
+http://ib6vzaug.rostelekom.xyz/iptv/QGP3QXDP95UFB4/6384/index.m3u8
+#EXTINF:-1,  Старт
+http://ru1.plist.link:3355/RNaoWLSkV5b9662/index.m3u8?token=ktSlluyLH7abBHsNCf4k12GsEHBmtWbY06z90xW1B2D6p1RkBarK3ck7Re-cdIYU.zmeich
+#EXTINF:-1,  Старт
+http://cdntv.online/high/kf28bzwndi/464.m3u8
+#EXTINF:-1,  Старт
+http://3.hls.gd/ch662/mono.m3u8?token=tanjar.v2_oQ_DYqpORhAl_MYY_4qmCK5WmGiIpHpnnp4hBqbzc-hBpcs8NQ1Bwq6OaTyv594LcemwPBfS
+#EXTINF:-1,  Старт
+http://ottlinks.club/hls/kz9fw4s2jx/58.m3u8
+#EXTINF:-1,  Старт
+http://cdntv.online/high/8zdmirv6c9/58.m3u8
+
+
+
+#EXTINF:-1,  Старт Триумф HD
+http://88.218.242.237:8001/Start_Triumf_HD
+#EXTINF:-1,  Старт Триумф HD
+http://88.218.242.237:8001/Start_Triumf_HD
+#EXTINF:-1,  Старт Триумф HD
+http://ru1.plist.link:3355/RNaoWLSkV5b72502/index.m3u8?token=ktSlluyLH7abBHsNCf4k1-zo-CPy_T9OaccqCqcTROBqJueBhRv_fexoOYsewTAS.zmeich
+#EXTINF:-1,  Старт Триумф HD
+http://flus.ddns.net:8087/start/index.m3u8?token=169b7595be158ec6ed92d01db9736624
 
 
 #EXTINF:-1, Окко спорт
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20138/index.m3u8
+#EXTINF:-1, Окко спорт
+http://76z2xkfh.virelloso.top/iptv/PLDYUWFGTWE97YH8FCB26U3B/20138/index.m3u8
 #EXTINF:-1, Окко прайм спорт
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20135/index.m3u8
 #EXTINF:-1, Окко Event
 http://ib6vzaug.rostelekom.xyz/iptv/QGP3QXDP95UFB4/14186/index.m3u8
 
-
-
+#EXTINF:-1, Океан. релакс
+https://river-3-3103.rtbcdn.ru/hls-vod/z3HkL5dsHq-WLHTtsGtgtw/1795494500/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765&streams=v1a1
